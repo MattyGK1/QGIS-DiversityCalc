@@ -1,0 +1,2 @@
+# QGIS-DiversityCalc
+Calculates biodiversity 
